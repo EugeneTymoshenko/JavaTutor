@@ -20,7 +20,6 @@ class Frame extends JFrame {
         setVisible(true);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         new Button(this);
-
     }
         }
 
